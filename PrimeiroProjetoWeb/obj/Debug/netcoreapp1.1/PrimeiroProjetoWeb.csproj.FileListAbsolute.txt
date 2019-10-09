@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\bin\Debug\netcoreapp1.1\PrimeiroProjetoWeb.deps.json
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\bin\Debug\netcoreapp1.1\PrimeiroProjetoWeb.runtimeconfig.json
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\bin\Debug\netcoreapp1.1\PrimeiroProjetoWeb.runtimeconfig.dev.json
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\bin\Debug\netcoreapp1.1\PrimeiroProjetoWeb.dll
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\bin\Debug\netcoreapp1.1\PrimeiroProjetoWeb.pdb
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\obj\Debug\netcoreapp1.1\PrimeiroProjetoWeb.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\obj\Debug\netcoreapp1.1\PrimeiroProjetoWeb.AssemblyInfo.cs
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\obj\Debug\netcoreapp1.1\PrimeiroProjetoWeb.dll
+c:\users\aluno\documents\visual studio 2017\Projects\PrimeiroProjetoWeb\PrimeiroProjetoWeb\obj\Debug\netcoreapp1.1\PrimeiroProjetoWeb.pdb
