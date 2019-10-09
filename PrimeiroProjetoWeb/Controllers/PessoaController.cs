@@ -23,7 +23,7 @@ namespace PrimeiroProjetoWeb.Controllers
                     Idade = 30,
                     Telefone = "11 2525-2525"
                 });
-            return View();
+            return View(pessoas);
         }
     }
 }
